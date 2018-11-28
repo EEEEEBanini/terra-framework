@@ -4,6 +4,7 @@ Changelog
 Unreleased
 ----------
 ### Added
+* Add DevSiteRoutingMenu which allows for filtering the menuItems via user input
 * Added missing ar translations.
 
 ### Breaking Change
